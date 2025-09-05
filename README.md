@@ -6,7 +6,7 @@
 </p>
 
 <!-- 头像与GitHub统计水平排列 -->
-<p align="center" style="display: flex; align-items: center; gap: 20px;">
+<p align="center" style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap; width: 100%;">
   <img src="image/头像.png" alt="头像" style="border-radius:50%; width:190px; height:190px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);" />
   
   <a href="https://github.com/DazzlingDust">
