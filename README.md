@@ -19,7 +19,7 @@
 <!-- 社交链接 -->
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://ShiningDust.XYZ">
-    <img src="https://img.shields.io/badge/Personal%20Website-ShiningDust.XYZ-00bfff?style=for-the-badge&logo=globe&logoColor=white" alt="Personal Website" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Personal%20Website-ShiningDust.XYZ-00bfff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" style="margin: 0 10px;" />
   </a>
   <a href="https://afdian.com/a/Shining_Dust">
     <img src="https://img.shields.io/badge/爱发电-Support-blue?style=for-the-badge&logo=readme&logoColor=white" alt="爱发电" style="margin: 0 10px;" />
